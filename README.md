@@ -84,6 +84,8 @@ A comprehensive laboratory for learning LangGraph and AI Agents through hands-on
 
 **Primary Focus**: Implement and manage looping logic
 
+<img src="assets/images/labs/agent5-diagram.png" alt="Agent 5 diagram" height="300">
+
 ---
 
 ## AI Agent Labs
@@ -91,8 +93,6 @@ A comprehensive laboratory for learning LangGraph and AI Agents through hands-on
 ### Lab 6: Simple Bot (AI Agent 1)
 
 **Building your first AI-powered agent**
-
-<img src="assets/images/labs/agent6-diagram.png" alt="Simple Bot Diagram" height="300">
 
 #### Learning Objectives
 
